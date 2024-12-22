@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Daniil 👋
+
+### My codewars: 
+
+[![codewars](https://www.codewars.com/users/Danya_b/badges/large)](https://www.codewars.com/users/Danya_b)   
 
 <!--
 **BibikovDanya/BibikovDanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
